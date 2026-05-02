@@ -1,2 +1,2 @@
-# Alzheimers-and-Physical-Activity
-Tests whether physical activity levels have a significant correlation with Alzheimers diagnosis, in both groups with family history of Alzheimers and without.
+# Alzheimers-Lifestyle-Factors
+This project examines a dataset of 2,149 patients to investigate whether lifestyle factors such as physical activity, diet quality, sleep quality, and BMI are associated with Alzheimer’s diagnosis. The analysis also compares these relationships between individuals with and without a family history of Alzheimer’s disease. Results show that all lifestyle variables have extremely weak correlations with diagnosis and near-zero predictive power (R² ≈ 0) among both groups, indicating that lifestyle factors alone are not strong predictors of Alzheimer’s in this dataset.
